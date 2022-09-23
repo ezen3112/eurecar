@@ -182,6 +182,6 @@ public class BoardController {
 	   
 	 
 
-	   //호스트 공지사항 결과보기 끝
+	   //호스트 공지사항 결과보기 끝 1234
 }
 
